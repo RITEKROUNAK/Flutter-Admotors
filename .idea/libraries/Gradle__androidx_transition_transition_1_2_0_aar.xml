@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.transition:transition:1.2.0@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca0d2a20d4f6784eeca010f8d05a34a1/transition-1.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

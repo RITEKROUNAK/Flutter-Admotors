@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stripe:stripe-3ds2-android:1.2.2@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1eb7ef4809c0853d90f219c516fd01d2/jetified-stripe-3ds2-android-1.2.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

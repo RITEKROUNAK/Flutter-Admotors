@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.braintreepayments.api:google-payment:3.1.1@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58fbdc22d94325e9d5a3631ff2a506b1/jetified-google-payment-3.1.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

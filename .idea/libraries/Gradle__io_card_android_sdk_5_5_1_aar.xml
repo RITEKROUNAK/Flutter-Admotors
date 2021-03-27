@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: io.card:android-sdk:5.5.1@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a30dc28eee31a76c6b43a2df6c5dfdc/jetified-android-sdk-5.5.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

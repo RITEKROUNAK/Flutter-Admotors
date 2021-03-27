@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "974207314605",
+    "firebase_url": "https://car-care-ab3c5.firebaseio.com",
+    "project_id": "car-care-ab3c5",
+    "storage_bucket": "car-care-ab3c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974207314605:android:627b7125de3c0c1c7bf424",
+        "android_client_info": {
+          "package_name": "com.ae.carcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974207314605-hvat5knt8ika2o4oho6t92trg6turc4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm9xei_4wSzr8y-660tyfsvQqqarfH3T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974207314605-hvat5knt8ika2o4oho6t92trg6turc4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974207314605:android:f0d37ec0960bb0ee7bf424",
+        "android_client_info": {
+          "package_name": "com.panaceasoft.flutteradmotors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974207314605-hvat5knt8ika2o4oho6t92trg6turc4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm9xei_4wSzr8y-660tyfsvQqqarfH3T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974207314605-hvat5knt8ika2o4oho6t92trg6turc4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
